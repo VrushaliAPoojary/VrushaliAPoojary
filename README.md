@@ -7,7 +7,6 @@
    
  **Check out some of my projects**
 - https://github.com/VrushaliAPoojary/Edemylms_FS
-- https://github.com/PrathamPShetty/medicine-trial
 - https://github.com/PrathamPShetty/major-project-website
 - https://github.com/PrathamPShetty/Major-Project
   
