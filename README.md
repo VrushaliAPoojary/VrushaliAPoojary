@@ -1,17 +1,17 @@
 **Hi! I'm Vrushali A Poojary, an Artificial Intelligence and Machine Learning student passionate about software development, frontend development, and building real-world applications using web technologies and AI.**
 
 
-##  Let's Connect!
+**Let's Connect!**
 -  Email: vrushaliash04@gmail.com  
 -  LinkedIn: https://linkedin.com/in/vrushali-a-poojary-73b9a129a  
 -  GitHub: https://github.com/VrushaliAPoojary
    
- ##  Projects
+ **  Projects**
 - https://github.com/VrushaliAPoojary/Edemylms_FS
 - https://github.com/PrathamPShetty/medicine-trial
 - https://github.com/PrathamPShetty/major-project-website
 - https://github.com/PrathamPShetty/Major-Project
   
-## Don't forget to check my portfolio
+** Don't forget to check my portfolio**
 -  Portfolio: https://vrushaliapoojary-portfolio-35hi.vercel.app/
 
