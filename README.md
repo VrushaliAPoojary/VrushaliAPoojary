@@ -1,6 +1,4 @@
-# Hello! I'm Vrushali A Poojary 
-
-I'm an Artificial Intelligence and Machine Learning student passionate about software development, fronend development, and building real-world applications using web technologies and AI.
+Hii I'm Vrushali A Poojary, an Artificial Intelligence and Machine Learning student passionate about software development, fronend development, and building real-world applications using web technologies and AI.
 
 ---
 
