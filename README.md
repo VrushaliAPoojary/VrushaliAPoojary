@@ -1,7 +1,12 @@
-** Namasthe, I'm Vrushali A Poojary, 
-I'm an Artificial Intelligence and Machine Learning graduate passionate about AI, Machine Learning, Computer Vision, NLP, and Software Development. I enjoy building real-world applications, exploring new technologies, and continuously learning to create impactful solutions.
-.**
+# 🚀 **Namasthe, I'm Vrushali A Poojary**
 
+### **Artificial Intelligence & Machine Learning Graduate**
+
+🔥 **Passionate about AI, Machine Learning, Computer Vision, NLP, and Software Development.**
+
+💡 **I enjoy building real-world AI applications, intelligent systems, and modern software solutions.**
+
+🌱 **Continuously learning, exploring new technologies, and creating impactful solutions through innovation and hands-on development.**
 
 **Let's Connect!**
 -  **Email:** vrushaliash04@gmail.com  
